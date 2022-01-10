@@ -2,7 +2,7 @@
 - 👀 I’m interested in product and user experience
 - 🌱 I’m currently learning Recommender Systems 
 - 💞️ I’m looking to collaborate on building communities in data & tech 
-- 📫 How to reach me magwolff (at) gmail (dot) com 
+- 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/magwolff/)  
 
 <!---
 maggiewolff/maggiewolff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
