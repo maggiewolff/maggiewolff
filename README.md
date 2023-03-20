@@ -1,10 +1,12 @@
-👋 Hi, I’m Maggie Wolff. I'm a data scientist based in Chicago. I currently work in the travel tech industry. I'm also an ambassador with Women in Data Science. 
+👋 Hi, I’m Maggie Wolff. 
+
+💼 I'm a data scientist based in Chicago, currently in the travel tech industry. 
 
 👀 I’m interested in analysis and prediction related to product and user experiences.
 
 🌱 I’m currently learning Streamlit and upskilling on experimentation and test design.
 
-💞️ I’m looking to collaborate on building communities in analytics & tech, especially for women.
+💞️ I’m looking to collaborate on building communities in analytics & tech, especially for women. I'm an ambassador with Women in Data Science. 
 
 📝 I sometimes share my thoughts on [Medium](https://data-storyteller.medium.com/).  
 
