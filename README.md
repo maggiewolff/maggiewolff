@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Streamlit and upskilling on experimentation and test design.
 
-💞️ I enjoy helping to build communities in analytics & tech. I'm an ambassador with Women in Data Science. 
+💞️ I enjoy helping to build communities in analytics & tech. I'm an ambassador with [Women in Data Science](https://www.widsconference.org/). 
 
 📝 I share my thoughts on [Medium](https://data-storyteller.medium.com/), especially on how to break into the analytics field and how to network effectively.  
 
