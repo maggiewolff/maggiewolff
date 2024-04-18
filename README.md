@@ -4,7 +4,7 @@
 
 👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and Adobe Analytics.  
 
-🌱 I’m currently learning Streamlit and upskilling on experimentation and test design.
+🌱 I’m currently working on measuring user effort and friction and understanding how this impacts the bottom line of a business.
 
 💞️ I enjoy building communities in analytics & tech. I'm an ambassador with [Women in Data Science](https://www.widsconference.org/) and you can also find me in one of these [Slack communities](https://data-storyteller.medium.com/list-of-data-analytics-online-communities-70831894aef7). 
 
