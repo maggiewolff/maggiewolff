@@ -4,9 +4,9 @@
 
 👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and Adobe Analytics.  
 
-🌱 I’m currently working on measuring user effort and friction and understanding how this impacts the bottom line of a business.
+🌱 I’m currently working on [measuring user effort and friction and understanding how this impacts the bottom line of a business](https://github.com/maggiewolff/user-effort-index/blob/main/IDEAL%20-%20Maggie%20Wolff%20-%20User%20Effort.pdf).
 
-💞️ I enjoy building communities in analytics & tech. I'm an ambassador with [Women in Data Science](https://www.widsconference.org/) and you can also find me in one of these [Slack communities](https://data-storyteller.medium.com/list-of-data-analytics-online-communities-70831894aef7). 
+💞️ I enjoy building communities in analytics & tech. I'm an ambassador with [Women in Data Science](https://www.widsconference.org/), helped organize the first [MeasureCamp Chicago](https://chicago.measurecamp.org/), and you can usually find me in one of these [Slack communities](https://data-storyteller.medium.com/list-of-data-analytics-online-communities-70831894aef7). 
 
 📝 I share my thoughts on [Medium](https://data-storyteller.medium.com/), especially on how to break into the analytics field and how to network effectively.  
 
