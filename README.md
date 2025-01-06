@@ -8,7 +8,7 @@
 
 💞️ I enjoy building communities in analytics & tech. I'm an ambassador with [Women in Data Science](https://www.widsconference.org/), helped organize the first [MeasureCamp Chicago](https://chicago.measurecamp.org/), and you can usually find me in one of these [Slack communities](https://data-storyteller.medium.com/list-of-data-analytics-online-communities-70831894aef7). 
 
-📝 I share my thoughts on [Medium](https://data-storyteller.medium.com/), especially on how to break into the analytics field and how to network effectively.  
+📝 I share my thoughts on [Medium](https://data-storyteller.medium.com/), especially on how to break into the analytics field and how to network effectively. I also occasionally [present at conferences](https://maggiewolff.github.io/talks/). 
 
 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/magwolff/).  
 
